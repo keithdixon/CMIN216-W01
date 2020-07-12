@@ -10,6 +10,15 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
+
+
+nav{
+text-align: center;
+font-size: 20px;
+font-color: blue;
+padding: 5px;
+
+}
 /* THIS IS OUR LOGO CLASS AND HAS A PERIOD IN FRONT
 OF THE NAME SINCE IT IS NOT WRITTEN LIKE <kd-logo>.
 I HAVE MADE ONE FOR YOU IF YOU NEED IT.
