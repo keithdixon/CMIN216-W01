@@ -22,9 +22,42 @@ width: 90%;
 }
 
 .service-logo{
-
-  width: 50%;
+width: 50%;
 }
+
+.main-box{
+	background-color: : #cb7a29;
+  text-align: center;
+}
+
+.white-text{
+  font-size: 25px;
+  color: white;
+}
+
+.yellow-line{
+  color: yellow;
+}
+
+.phone-number{
+  color: blue;
+}
+
+.list1{
+  color: red;
+  font-size: 20px;
+}
+
+.list2{
+  color: pink;
+  font-size: 20px;
+}
+
+.email-color{
+  color: pink;
+  font-size: 20px;
+}
+
 /* THIS IS OUR HEADER AND IT HAS NO PERIOD SINCE WE WROTE IT AS <header> BELOW
 I MADE IT MARGINED 15% OF OFF THE LEFT AND RIGHT SIDES AND CENTERED THE CONTENT*/
 header {
