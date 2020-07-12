@@ -1,3 +1,6 @@
 body {
-  background-color: lightblue;
+  <style type="text/css">
+  background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
 }
