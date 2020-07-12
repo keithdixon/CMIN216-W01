@@ -1,6 +1,41 @@
+
+/* THIS IS THE BODY AND IT HAS NO PERIOD SINCE WE WROTE
+IT AS <body> BELOW, ALL CONTENT GOES IN THE BODY
+I TOOK AN IMAGE FROM UNSPLASH.COM
+WHICH OFFERS FREE USE IMAGES FOR SCHOOL PROJECTS LIKE THESE.
+IT IS SET TO NOT REPEAT, NOT SCROLL, AND TO COVER THE ENTIRE PAGE*/
 body {
-  <style type="text/css">
-  background-repeat: no-repeat;
+background-image: url(https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1295&q=80);
+background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
+/* THIS IS OUR LOGO CLASS AND HAS A PERIOD IN FRONT
+OF THE NAME SINCE IT IS NOT WRITTEN LIKE <kd-logo>.
+I HAVE MADE ONE FOR YOU IF YOU NEED IT.
+THE WIDTH BEING 90% MEANS THAT ANY CONTAINER IT IS IN,
+LIKE A DIV OR A MAIN OR A SECTION, IT WILL BE 10% OFF THE
+EDGE OF THE RIGHT SIDE OF THE PAGE, OR 5% OFF EACH SIDE
+IF YOU CENTER IT*/
+.kd-logo {
+width: 90%;
+}
+/* THIS IS OUR HEADER AND IT HAS NO PERIOD SINCE WE WROTE IT AS <header> BELOW
+I MADE IT MARGINED 15% OF OFF THE LEFT AND RIGHT SIDES AND CENTERED THE CONTENT*/
+header {
+margin-left: 15%;
+margin-right: 15%;
+text-align: center;
+}
+/* THIS IS OUR LOGO TEXT, RIGHT NOW IT IS AN <h1> WITH THE TEXT 'Welcome'
+HERE I HAVE JUST CENTERED IT.*/
+.logo-text {
+text-align: center;
+}
+/* THIS IS THE CONTAINER WE ARE USING FOR OUR MAIN CONTENT*/
+main {
+width: 80%;
+margin-left: 15%;
+margin-right: 15%;
+}
+/* WE CLOSE OUR STYLE */
